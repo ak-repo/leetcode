@@ -1,16 +1,9 @@
 func missingNumber(nums []int) int {
-
-    n:= len(nums)
-
-    for i:=0;i<=n;i++{
-        if !slices.Contains(nums,i){
+    for i:=0;i<=len(nums);i++{
+        if slices.Index(nums,i) == -1{
             return i
         }
     }
-    return -1
-
-
-  
-    
+    return -1   
     
 }
