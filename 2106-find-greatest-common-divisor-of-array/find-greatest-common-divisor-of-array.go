@@ -1,24 +1,24 @@
-
 func findGCD(nums []int) int {
 
 	// sort the array
 	sort.Ints(nums)
 	smallest := nums[0]
 	greatest := nums[len(nums)-1]
-	var gcd int
 
-	//
-	for greatest >= 0 {
-		reminder := greatest % smallest
-		if reminder == 0 {
-			gcd = smallest
-			break
+	for smallest != greatest {
+		sub := greatest - smallest
+		if smallest == sub {
+			return sub
 		}
-		greatest = smallest
-		smallest = reminder
+		if sub > smallest {
+			greatest = sub
+		} else {
+			greatest = smallest
+			smallest = sub
+		}
 
 	}
 
-	return gcd
+	return smallest
 
 }
