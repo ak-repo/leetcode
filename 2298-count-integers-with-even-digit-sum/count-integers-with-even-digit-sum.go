@@ -1,21 +1,25 @@
+
 func countEven(num int) int {
 
 	var count int
 
 	for i := 2; i <= num; i++ {
-		strI := strconv.Itoa(i)
-		var total int
-		for _, j := range strI {
-			total += int(j)
 
-		}
-		if total%2 == 0 {
-			fmt.Println("str,", strI)
+		if digitSum(i)%2 == 0 {
 			count++
 		}
-
 	}
 
 	return count
+
+}
+
+func digitSum(n int) (sum int) {
+
+	for n > 0 {
+		sum += n % 10
+		n /= 10
+	}
+	return sum
 
 }
