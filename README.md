@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ak-repo/leetcode/tree/master/0075-sort-colors) |
 | [0204-count-primes](https://github.com/ak-repo/leetcode/tree/master/0204-count-primes) |
+| [0643-maximum-average-subarray-i](https://github.com/ak-repo/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Sorting
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ak-repo/leetcode/tree/master/0204-count-primes) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ak-repo/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
