@@ -22,8 +22,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ak-repo/leetcode/tree/master/0075-sort-colors) |
+| [0204-count-primes](https://github.com/ak-repo/leetcode/tree/master/0204-count-primes) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ak-repo/leetcode/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ak-repo/leetcode/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ak-repo/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ak-repo/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
