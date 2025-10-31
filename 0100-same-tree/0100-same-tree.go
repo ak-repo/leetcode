@@ -7,40 +7,17 @@
  * }
  */
 func isSameTree(p *TreeNode, q *TreeNode) bool {
-
-    arr1:= []interface{}{}
-    arr2:= []interface{}{}
-    inorder(p,&arr1)
-    inorder(q,&arr2)
-
-    if len(arr1) != len(arr2){
+    if q == nil && p == nil{
+        return true
+    }
+    if q== nil || p == nil{
         return false
     }
 
-    for i:= 0; i<len(arr1);i++{
-
-        if arr1[i] != arr2[i]{
-            return false
-        }
+    if q.Val != p.Val{
+        return false
     }
 
-return true
+    return isSameTree(q.Right,p.Right) && isSameTree(q.Left,p.Left)
     
-   
-}
-
-
-
-func inorder(node *TreeNode, arr *[]interface{}){
-
-    if node == nil{
-    *arr = append(*arr, nil)
-        return 
-    }
-    *arr = append(*arr, node.Val)
-
-
-    inorder(node.Left,arr)
-    inorder(node.Right,arr)
-
 }
