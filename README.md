@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ak-repo/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/ak-repo/leetcode/tree/master/0344-reverse-string) |
 ## Linked List
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ak-repo/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/ak-repo/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Tree
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ak-repo/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ak-repo/leetcode/tree/master/0100-same-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ak-repo/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
