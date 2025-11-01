@@ -1,14 +1,13 @@
 func lengthOfLongestSubstring(s string) int {
 
 	var maxValue, minValue int
-	coll := map[string]int{}
+	coll := map[byte]int{}
 
 	for i := 0; i < len(s); i++ {
-		str := string(s[i])
 
-		index, ok := coll[str]
+		key := s[i]
+		index, ok := coll[key]
 		if ok {
-
 			clear(coll)
 			if maxValue < minValue {
 				maxValue = minValue
@@ -17,7 +16,7 @@ func lengthOfLongestSubstring(s string) int {
 			i = index
 			continue
 		}
-		coll[str] = i
+		coll[key] = i
 		minValue++
 	}
 	if maxValue < minValue {
