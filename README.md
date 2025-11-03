@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ak-repo/leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/ak-repo/leetcode/tree/master/0148-sort-list) |
 | [0344-reverse-string](https://github.com/ak-repo/leetcode/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ak-repo/leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/ak-repo/leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ak-repo/leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/ak-repo/leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ak-repo/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/ak-repo/leetcode/tree/master/0948-sort-an-array) |
 ## Math
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ak-repo/leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ak-repo/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/ak-repo/leetcode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -97,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ak-repo/leetcode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/ak-repo/leetcode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
