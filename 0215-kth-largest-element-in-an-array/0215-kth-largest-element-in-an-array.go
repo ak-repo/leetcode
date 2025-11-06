@@ -1,28 +1,40 @@
 func findKthLargest(nums []int, k int) int {
+    h:= &Heap{}
+    heap.Init(h)
 
-arr:= QuickSort(nums)
+    for _, num:= range nums{
+        heap.Push(h,num)
+        if h.Len() > k{
+            heap.Pop(h)
+        }
 
-return arr[k-1]
+    }
+    return (*h)[0]
+    
 }
 
 
-func QuickSort(arr []int) []int {
-	if len(arr) < 2 {
-		return arr
-	}
+type Heap []int
 
-	pivot := arr[len(arr)/2]
-	var less, equal, greater []int
+func( h Heap)Len()int{
+    return len(h)
+}
+func(h Heap)Less(i,j int)bool{
+    return h[i] < h[j]
+}
 
-	for _, v := range arr {
-		if v < pivot {
-			less = append(less, v)
-		} else if v > pivot {
-			greater = append(greater, v)
-		} else {
-			equal = append(equal, v)
-		}
-	}
+func (h Heap)Swap(i,j int){
+    h[i],h[j] = h[j],h[i]    
+}
 
-	return append(append(QuickSort(greater), equal...), QuickSort(less)...)
+func (h *Heap)Push(x interface{}){
+    *h = append(*h , x.(int))
+}
+
+func( h *Heap)Pop()interface{}{
+    old:= *h
+    n:= len(old)
+    x:= old[n-1]
+    *h = old[0: n-1]
+    return x
 }
