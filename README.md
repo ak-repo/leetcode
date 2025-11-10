@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ak-repo/leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ak-repo/leetcode/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/ak-repo/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ak-repo/leetcode/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ak-repo/leetcode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/ak-repo/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ak-repo/leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ak-repo/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/ak-repo/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ak-repo/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ak-repo/leetcode/tree/master/0204-count-primes) |
 ## Enumeration
 |  |
