@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ak-repo/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/ak-repo/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ak-repo/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1078-remove-outermost-parentheses](https://github.com/ak-repo/leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ak-repo/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/ak-repo/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ak-repo/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1078-remove-outermost-parentheses](https://github.com/ak-repo/leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
