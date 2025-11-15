@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ak-repo/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ak-repo/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ak-repo/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ak-repo/leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ak-repo/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ak-repo/leetcode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/ak-repo/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/ak-repo/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/ak-repo/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ak-repo/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/ak-repo/leetcode/tree/master/0948-sort-an-array) |
 ## Math
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ak-repo/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/ak-repo/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ak-repo/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/ak-repo/leetcode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ak-repo/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/ak-repo/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ak-repo/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Merge Sort
 |  |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ak-repo/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ak-repo/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0948-sort-an-array](https://github.com/ak-repo/leetcode/tree/master/0948-sort-an-array) |
 ## Design
