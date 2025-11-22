@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ak-repo/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/ak-repo/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ak-repo/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1002-find-common-characters](https://github.com/ak-repo/leetcode/tree/master/1002-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/ak-repo/leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Linked List
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ak-repo/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/ak-repo/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0948-sort-an-array](https://github.com/ak-repo/leetcode/tree/master/0948-sort-an-array) |
+| [1002-find-common-characters](https://github.com/ak-repo/leetcode/tree/master/1002-find-common-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ak-repo/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/ak-repo/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ak-repo/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1002-find-common-characters](https://github.com/ak-repo/leetcode/tree/master/1002-find-common-characters) |
 ## Merge Sort
 |  |
 | ------- |
