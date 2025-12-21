@@ -10,7 +10,6 @@ func inorderTraversal(root *TreeNode) []int {
 
     arr:= []int{}
     inorder(root,&arr)
-
     return arr
     
 }
