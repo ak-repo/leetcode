@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/ak-repo/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ak-repo/leetcode/tree/master/0204-count-primes) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ak-repo/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Enumeration
 |  |
 | ------- |
